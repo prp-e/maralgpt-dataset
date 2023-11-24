@@ -12,3 +12,8 @@ some text
 reply from the model
 <|ENDOFASSISTANT|>
 ```
+
+## TODO
+
+- [ ] Add links to huggingface and stuff
+- [ ] Document the notebook
