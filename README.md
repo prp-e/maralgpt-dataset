@@ -1,1 +1,3 @@
-# maralgpt-dataset
+# MaralGPT Dataset
+
+## Instruction structure
